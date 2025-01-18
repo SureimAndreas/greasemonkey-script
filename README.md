@@ -11,3 +11,5 @@
 **Change the angle by right clicking on the Textbox**
 
 ![bilde](https://github.com/user-attachments/assets/3174ce4d-6388-4b41-8a4c-5770d3dd9bb5)
+
+**NOTE: You can not save this as XML or PNG. But a normal screenshot will do.**
