@@ -28,7 +28,7 @@
     contextMenu.style.zIndex = 10000;
 
     const addConnectionButton = document.createElement('button');
-    addConnectionButton.textContent = 'Add Connection';
+    addConnectionButton.textContent = 'Show Connection';
     addConnectionButton.style.backgroundColor = '#4299e1'; // Blue button
     addConnectionButton.style.color = '#ffffff';
     addConnectionButton.style.border = 'none';
